@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px;    
+}
+
+.container h1 {
+    text-align: center;
+}
